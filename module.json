@@ -1,7 +1,7 @@
 {
   "id": "trespasser-content",
   "title": "Trespasser - Content",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -29,5 +29,8 @@
       "system": "trespasser",
       "flags": {}
     }
-  ]
+  ],
+  "url": "https://github.com/rmgodoy/trespasser-content",
+  "manifest": "https://raw.githubusercontent.com/rmgodoy/trespasser-content/main/module.json",
+  "download": "https://github.com/rmgodoy/trespasser-content/archive/refs/heads/main.zip"
 }
