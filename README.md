@@ -1,5 +1,4 @@
-# Trespasser System Assets
-
+# Trespasser Content for Foundry VTT
 This document tracks the alchemical, martial, and mystical assets created for the Trespasser system.
 
 ## Content
