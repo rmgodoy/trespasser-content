@@ -1,0 +1,33 @@
+{
+  "id": "trespasser-content",
+  "title": "Trespasser - Content",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>Content for Trespasser RPG.</p><p></p><p>Contains Callings, Crafts, Past Lifes, Items (weapons, armors, adventure tools and concotions).</p>",
+  "authors": [
+    {
+      "name": "RMGodoy",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "trespasser-content",
+      "label": "Trespasser Content",
+      "path": "packs/trespasser-content",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "trespasser",
+      "flags": {}
+    }
+  ]
+}
