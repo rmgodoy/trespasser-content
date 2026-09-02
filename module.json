@@ -16,6 +16,17 @@
   "flags": {
     "canUpload": true
   },
+  "relationships": {
+    "systems": [
+      {
+        "id": "trespasser",
+        "compatibility": {
+          "minimum": "0.2.0",
+          "verified": "0.2.0"
+        }
+      }
+    ]
+  },
   "packs": [
     {
       "name": "trespasser-content",
