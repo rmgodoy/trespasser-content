@@ -21,7 +21,7 @@
       {
         "id": "trespasser",
         "compatibility": {
-          "minimum": "0.2.0",
+          "minimum": "0.0.0",
           "verified": "0.2.0"
         }
       }
